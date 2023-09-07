@@ -105,8 +105,8 @@ INSERT INTO carro (ano, modelo, marca, chassi, novo, quilometragem) VALUES
     ('2022', 'samurai', 'suzuki', '40404040404040404', 'true', '2000')
     
 INSERT INTO cliente (nome, data_nascimento, endereco, cpf) VALUES
-    ('carla', '30-03-1989', 'rua só jesus sabe', '45678912345'),
-    ('carol', '14-05-2003', 'rua dos bobos', '46312789643'),
+    ('carla', '30-03-1989', 'rua das arvores', '45678912345'),
+    ('carol', '14-05-2003', 'rua dos passaros', '46312789643'),
     ('emilly', '17-03-1993', 'rua das orquídeas', '12459873105'),
     ('angela', '25-08-1993', 'rua ponta negra', '78563421631'),
     ('alefe','10-05-2004', 'rua macaiba', '15642398410')
