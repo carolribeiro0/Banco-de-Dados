@@ -113,7 +113,7 @@ FROM AnotacoesPaciente
 /* 1. Selecione todas as informações anotadas em um prontuário, assim como o nome do médico, a data da anotação, a data de internação,
 dos prontuários de um paciente, ordenados por prontuário, utilizando a view acima */
 
-/*--Como não sabíamos qual ordenação a questão pedia exatamente, ordenamos tanto pelo ID quanto por data_anotacao, ambas de AnotacoesPaciente--*/
+/*--ordenamos tanto pelo ID quanto por data_anotacao, ambas de AnotacoesPaciente--*/
 
 SELECT *
 FROM AnotacoesPaciente
